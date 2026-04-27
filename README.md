@@ -239,7 +239,7 @@ Security-focused Computer Science enthusiast with hands-on experience in CTF cha
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
 <p align="center">
-<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
+<a href="https://open.spotify.com/playlist/0ItGHE4Q49Eyhnpqpwkny7?si=6299fd0c001841c0" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
 </a>
 
