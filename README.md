@@ -70,7 +70,7 @@ Security-focused Computer Science enthusiast with hands-on experience in CTF cha
       </td>
       <td align="center" valign="top">
         🗓️ July 2025 <br/>
-        🔗 <a href="https://www.credly.com/badges/c4110063-79e4-4b9a-8599-da6698d8c7fe/public_url">Credential</a><br/>
+        🔗 <a href="https://www.credly.com/badges/c11387d2-c2ab-47d9-badd-5bf875eccf62/public_url">Credential</a><br/>
         <em>Recognizes basic cybersecurity knowledge, including key terminology, concepts, and fundamental technologies.
 </em>
       </td>
