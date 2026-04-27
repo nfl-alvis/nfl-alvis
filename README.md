@@ -63,19 +63,19 @@ Security-focused Computer Science enthusiast with hands-on experience in CTF cha
     <tr>
       <!-- Text Row -->
       <td align="center" valign="top">
-        🗓️ July 2025 <br/>
+        🗓️ March 2026 <br/>
         🔗 <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
         <em>Validates entry-level cybersecurity skills, covering the modern threat landscape and core security fundamentals.
 </em>
       </td>
       <td align="center" valign="top">
-        🗓️ July 2025 <br/>
+        🗓️ March 2026 <br/>
         🔗 <a href="https://www.credly.com/badges/c11387d2-c2ab-47d9-badd-5bf875eccf62/public_url">Credential</a><br/>
         <em>Recognizes basic cybersecurity knowledge, including key terminology, concepts, and fundamental technologies.
 </em>
       </td>
       <td align="center" valign="top">
-        🗓️ July 2025 <br/>
+        🗓️ March 2026 <br/>
         🔗 <a href="https://www.credly.com/badges/f4a6ba30-0066-438a-bbbb-3895568ff939/public_url">Credential</a><br/>
         <em>Recognizes a foundational understanding of the cyber threat landscape, including common threats, threat actors, and core principles for protecting systems and networks.
 </em>
