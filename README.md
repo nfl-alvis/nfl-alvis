@@ -32,6 +32,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 Security-focused Computer Science enthusiast with hands-on experience in CTF challenges, reverse engineering, web exploitation, and low-level debugging. Skilled in analyzing binaries, identifying vulnerabilities, and developing practical exploits. Also interested in full-stack web development and experienced in basic Python scripting and basic machine learning. Passionate about continuously improving problem-solving skills and exploring deeper areas of cybersecurity and web developement.
+![tryhackme stats](https://raw.githubusercontent.com/nfl-alvis/nfl-alvis/master/assets/thm_propic.png)
 <br>
 
 <h2 align="center">🎓 My Certifications</h2>
